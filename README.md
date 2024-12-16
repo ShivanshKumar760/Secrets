@@ -74,7 +74,7 @@ The application is deployed on Render. Follow these steps to deploy:
 ![nodejs](https://github.com/ShivanshKumar760/Secrets/blob/master/mdfile-assets/nodejs.png)
 ![express](https://github.com/ShivanshKumar760/Secrets/blob/master/mdfile-assets/express.png)
 ![MongoDB](https://github.com/ShivanshKumar760/Secrets/blob/master/mdfile-assets/mongodb.png)
-![mongoose](https://github.com/ShivanshKumar760/Secrets/blob/master/mdfile-assets/mongoose.png)
+![mongoose](https://github.com/ShivanshKumar760/Secrets/blob/master/mdfile-assets/mongoose2.png)
 ![Passport](https://github.com/ShivanshKumar760/Secrets/blob/master/mdfile-assets/passport.png)
 - Node.js: JavaScript runtime environment.
 
@@ -91,9 +91,7 @@ The application is deployed on Render. Follow these steps to deploy:
 - Passport.js :For authentication 
 
 ### Frontend
-![ejs](https://www.step2gen.com/nodejs-development-company-india)
-![css](https://www.step2gen.com/nodejs-development-company-india)
-![Bootstrap](https://www.step2gen.com/nodejs-development-company-india)
+![ejs](https://github.com/ShivanshKumar760/Secrets/blob/master/mdfile-assets/ejs.png)
 - EJS: Embedded JavaScript templates for server-side rendering.
 
 - CSS: Styling the application
